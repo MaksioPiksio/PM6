@@ -1,7 +1,9 @@
 #include <iostream>
 /*
-w cpp mozna:
-a == b ? true : false;
+Co wyniosłem z lekcji:
+    w cpp mozna:
+    a == b ? true : false;
+(2h xd)
 */
 class DataStructure
 {
@@ -32,7 +34,7 @@ public:
 
     ~DataStructure()
     {
-    delete[] arr;
+        delete[] arr;
     }
 };
 class Stack : public DataStructure
