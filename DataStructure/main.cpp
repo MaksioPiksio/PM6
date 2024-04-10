@@ -1,9 +1,7 @@
 #include <iostream>
 /*
-Co wyniosłem z lekcji:
     w cpp mozna:
     a == b ? true : false;
-(2h xd)
 */
 class DataStructure
 {
